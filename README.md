@@ -11,18 +11,18 @@ Projeto do curso [Mestres da Automação](https://devaprender.com/), com os segu
 ## Passo-a-Passo
 
 
-1. Acessar o site do Instagram
-1. Inserir usuário
-1. Inserir a senha
-1. Clicar em "log in"
-1. Clicar em "Agora não" para não salvar informações de login
+1. Navegar até o site https://www.instagram.com/
+1. Entrar com meu usuário
+1. Entrar com a minha senha
+1. Clicar em "Entrar"
+1. Clicar em "Agora não" para não salvar navegador
 1. Clicar em "Agora não" para não ativar as notificações
-1. Pesquisar o perfil alvo
-1. Acessar o perfil alvo
-1. Acessar a postagem mais recente
-1. Verificar se meu bot já curtiu ou não aquela postagem
-1. Se já tiver curtido, não fazer nada e pausar o bot por 24 horas
-1. Se não tiver curtido, curtir a postagem
-1. Se não tiver curtido, comentar a postagem
-1. Pausar o bot por 24 horas
-1. Após 24 horas rodar tudo de novo
+1. Pesquisar pela página
+1. Entrar na página
+1. Clicar na postagem mais recente
+1. Verificar se já curti ou não aquela postagem
+1. Se já tiver curtido, fazer nada e pausar o bot por 24 horas
+1. Se não tiver curtido, curtir a foto
+1. Se não tiver curtido, comentar na foto
+1. Pausar por 24 horas
+1. Após 24 horas, rodar tudo de novo

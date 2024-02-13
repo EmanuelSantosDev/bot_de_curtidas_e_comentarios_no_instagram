@@ -22,7 +22,9 @@ Projeto do curso [Mestres da Automação](https://devaprender.com/), com os segu
 1. Clicar na postagem mais recente
 1. Verificar se já curti ou não aquela postagem
 1. Se já tiver curtido, fazer nada e pausar o bot por 24 horas
+   1. Efetuar logout e fechar aba do navegador
 1. Se não tiver curtido, curtir a foto
 1. Se não tiver curtido, comentar na foto
+   1. Efetuar logout e fechar aba do navegador
 1. Pausar por 24 horas
 1. Após 24 horas, rodar tudo de novo

@@ -20,12 +20,12 @@ while True:
     # 02 - Entrar com meu usuário
     pyautogui.click(864, 321, duration=1)
     sleep(1)
-    pyautogui.typewrite('suelen.teste@yahoo.com', interval=0.1)
+    pyautogui.typewrite('nome_do_usuario@yahoo.com', interval=0.1)
     sleep(1)
     # 03 - Entrar com a minha senha
     pyautogui.press('tab')
     sleep(1)
-    pyautogui.typewrite('pythonista', interval=0.1)
+    pyautogui.typewrite('senha_do_usuario', interval=0.1)
     sleep(1)
     # 04 - Clicar em "Entrar"
     pyautogui.move(-150, 0, duration=1)

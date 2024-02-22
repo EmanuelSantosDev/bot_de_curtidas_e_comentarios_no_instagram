@@ -1,14 +1,5 @@
-# Bot de Curtidas e Comentários no Instagram com PyAutoGUI
+# PyAutoGUI - Bot de Curtidas e Comentários no Instagram
 
-
-Projeto do curso [Mestres da Automação](https://devaprender.com/), com os seguintes objetivos:
-
-- Criar um bot que define qual página seguir e que verifica se a postagem mais atual ainda não foi curtida pelo bot. 
-- Caso uma nova postagem tenha sido feita, ele deve entrar nessa postagem, curtir e comentar algo nela.
-
-
-
-## Passo-a-Passo
 
 
 1. Navegar até o site https://www.instagram.com/
